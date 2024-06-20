@@ -1,6 +1,10 @@
 Usage
 =====
 
+.. toctree::
+
+   Storage
+
 #.. _installation:
 
 #Installation
